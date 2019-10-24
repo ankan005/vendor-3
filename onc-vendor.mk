@@ -76,6 +76,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/onc/proprietary/framework/vendor.qti.hardware.data.dynamicdds-V1.0-java.jar:system/framework/vendor.qti.hardware.data.dynamicdds-V1.0-java.jar \
     vendor/xiaomi/onc/proprietary/framework/vendor.qti.hardware.data.latency-V1.0-java.jar:system/framework/vendor.qti.hardware.data.latency-V1.0-java.jar \
     vendor/xiaomi/onc/proprietary/framework/vendor.qti.hardware.data.qmi-V1.0-java.jar:system/framework/vendor.qti.hardware.data.qmi-V1.0-java.jar \
+    vendor/xiaomi/onc/proprietary/framework/vendor.qti.hardware.sensorscalibrate-V1.0-java.jar:system/framework/vendor.qti.hardware.sensorscalibrate-V1.0-java.jar \
     vendor/xiaomi/onc/proprietary/framework/vendor.qti.hardware.soter-V1.0-java.jar:system/framework/vendor.qti.hardware.soter-V1.0-java.jar \
     vendor/xiaomi/onc/proprietary/framework/vendor.qti.ims.callinfo-V1.0-java.jar:system/framework/vendor.qti.ims.callinfo-V1.0-java.jar \
     vendor/xiaomi/onc/proprietary/framework/vendor.qti.ims.rcsconfig-V1.0-java.jar:system/framework/vendor.qti.ims.rcsconfig-V1.0-java.jar \
@@ -146,6 +147,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/onc/proprietary/lib/vendor.qti.hardware.scve.objecttracker@1.0.so:system/lib/vendor.qti.hardware.scve.objecttracker@1.0.so \
     vendor/xiaomi/onc/proprietary/lib/vendor.qti.hardware.scve.panorama@1.0-adapter-helper.so:system/lib/vendor.qti.hardware.scve.panorama@1.0-adapter-helper.so \
     vendor/xiaomi/onc/proprietary/lib/vendor.qti.hardware.scve.panorama@1.0.so:system/lib/vendor.qti.hardware.scve.panorama@1.0.so \
+    vendor/xiaomi/onc/proprietary/lib/vendor.qti.hardware.sensorscalibrate@1.0.so:system/lib/vendor.qti.hardware.sensorscalibrate@1.0.so \
     vendor/xiaomi/onc/proprietary/lib/vendor.qti.hardware.vpp@1.1.so:system/lib/vendor.qti.hardware.vpp@1.1.so \
     vendor/xiaomi/onc/proprietary/lib/vendor.qti.hardware.vpp@1.2.so:system/lib/vendor.qti.hardware.vpp@1.2.so \
     vendor/xiaomi/onc/proprietary/lib/vendor.qti.ims.callinfo@1.0.so:system/lib/vendor.qti.ims.callinfo@1.0.so \
@@ -201,6 +203,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/onc/proprietary/lib64/vendor.qti.hardware.scve.objecttracker@1.0.so:system/lib64/vendor.qti.hardware.scve.objecttracker@1.0.so \
     vendor/xiaomi/onc/proprietary/lib64/vendor.qti.hardware.scve.panorama@1.0-adapter-helper.so:system/lib64/vendor.qti.hardware.scve.panorama@1.0-adapter-helper.so \
     vendor/xiaomi/onc/proprietary/lib64/vendor.qti.hardware.scve.panorama@1.0.so:system/lib64/vendor.qti.hardware.scve.panorama@1.0.so \
+    vendor/xiaomi/onc/proprietary/lib64/vendor.qti.hardware.sensorscalibrate@1.0.so:system/lib64/vendor.qti.hardware.sensorscalibrate@1.0.so \
     vendor/xiaomi/onc/proprietary/lib64/vendor.qti.hardware.soter@1.0.so:system/lib64/vendor.qti.hardware.soter@1.0.so \
     vendor/xiaomi/onc/proprietary/lib64/vendor.qti.hardware.vpp@1.1.so:system/lib64/vendor.qti.hardware.vpp@1.1.so \
     vendor/xiaomi/onc/proprietary/lib64/vendor.qti.hardware.vpp@1.2.so:system/lib64/vendor.qti.hardware.vpp@1.2.so \
