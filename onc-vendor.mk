@@ -110,6 +110,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/onc/proprietary/lib/lib-imsvtutils.so:system/lib/lib-imsvtutils.so \
     vendor/xiaomi/onc/proprietary/lib/libFileMux.so:system/lib/libFileMux.so \
     vendor/xiaomi/onc/proprietary/lib/libOmxMux.so:system/lib/libOmxMux.so \
+    vendor/xiaomi/onc/proprietary/lib/libcrypto.so:system/lib/libcrypto.so \
     vendor/xiaomi/onc/proprietary/lib/libdiag_system.so:system/lib/libdiag_system.so \
     vendor/xiaomi/onc/proprietary/lib/libdpmctmgr.so:system/lib/libdpmctmgr.so \
     vendor/xiaomi/onc/proprietary/lib/libdpmfdmgr.so:system/lib/libdpmfdmgr.so \
@@ -186,6 +187,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/onc/proprietary/lib64/libFileMux.so:system/lib64/libFileMux.so \
     vendor/xiaomi/onc/proprietary/lib64/libOmxMux.so:system/lib64/libOmxMux.so \
     vendor/xiaomi/onc/proprietary/lib64/libaptX_encoder.so:system/lib64/libaptX_encoder.so \
+    vendor/xiaomi/onc/proprietary/lib64/libcrypto.so:system/lib64/libcrypto.so \
+    vendor/xiaomi/onc/proprietary/lib64/libcrypto_utils.so:system/lib64/libcrypto_utils.so \
     vendor/xiaomi/onc/proprietary/lib64/libdiag_system.so:system/lib64/libdiag_system.so \
     vendor/xiaomi/onc/proprietary/lib64/libdpmctmgr.so:system/lib64/libdpmctmgr.so \
     vendor/xiaomi/onc/proprietary/lib64/libdpmfdmgr.so:system/lib64/libdpmfdmgr.so \
