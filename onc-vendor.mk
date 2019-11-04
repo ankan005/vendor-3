@@ -143,11 +143,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/onc/proprietary/lib/libwfduibcsrcinterface.so:system/lib/libwfduibcsrcinterface.so \
     vendor/xiaomi/onc/proprietary/lib/vendor.display.postproc@1.0.so:system/lib/vendor.display.postproc@1.0.so \
     vendor/xiaomi/onc/proprietary/lib/vendor.qti.esepowermanager@1.0.so:system/lib/vendor.qti.esepowermanager@1.0.so \
-    vendor/xiaomi/onc/proprietary/lib/vendor.qti.gnss@1.0.so:system/lib/vendor.qti.gnss@1.0.so \
-    vendor/xiaomi/onc/proprietary/lib/vendor.qti.gnss@1.1.so:system/lib/vendor.qti.gnss@1.1.so \
-    vendor/xiaomi/onc/proprietary/lib/vendor.qti.gnss@1.2.so:system/lib/vendor.qti.gnss@1.2.so \
-    vendor/xiaomi/onc/proprietary/lib/vendor.qti.gnss@2.0.so:system/lib/vendor.qti.gnss@2.0.so \
-    vendor/xiaomi/onc/proprietary/lib/vendor.qti.gnss@2.1.so:system/lib/vendor.qti.gnss@2.1.so \
     vendor/xiaomi/onc/proprietary/lib/vendor.qti.hardware.camera.device@1.0.so:system/lib/vendor.qti.hardware.camera.device@1.0.so \
     vendor/xiaomi/onc/proprietary/lib/vendor.qti.hardware.data.dynamicdds@1.0.so:system/lib/vendor.qti.hardware.data.dynamicdds@1.0.so \
     vendor/xiaomi/onc/proprietary/lib/vendor.qti.hardware.data.latency@1.0.so:system/lib/vendor.qti.hardware.data.latency@1.0.so \
@@ -208,11 +203,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/onc/proprietary/lib64/libxt_native.so:system/lib64/libxt_native.so \
     vendor/xiaomi/onc/proprietary/lib64/vendor.display.postproc@1.0.so:system/lib64/vendor.display.postproc@1.0.so \
     vendor/xiaomi/onc/proprietary/lib64/vendor.qti.esepowermanager@1.0.so:system/lib64/vendor.qti.esepowermanager@1.0.so \
-    vendor/xiaomi/onc/proprietary/lib64/vendor.qti.gnss@1.0.so:system/lib64/vendor.qti.gnss@1.0.so \
-    vendor/xiaomi/onc/proprietary/lib64/vendor.qti.gnss@1.1.so:system/lib64/vendor.qti.gnss@1.1.so \
-    vendor/xiaomi/onc/proprietary/lib64/vendor.qti.gnss@1.2.so:system/lib64/vendor.qti.gnss@1.2.so \
-    vendor/xiaomi/onc/proprietary/lib64/vendor.qti.gnss@2.0.so:system/lib64/vendor.qti.gnss@2.0.so \
-    vendor/xiaomi/onc/proprietary/lib64/vendor.qti.gnss@2.1.so:system/lib64/vendor.qti.gnss@2.1.so \
     vendor/xiaomi/onc/proprietary/lib64/vendor.qti.hardware.camera.device@1.0.so:system/lib64/vendor.qti.hardware.camera.device@1.0.so \
     vendor/xiaomi/onc/proprietary/lib64/vendor.qti.hardware.data.dynamicdds@1.0.so:system/lib64/vendor.qti.hardware.data.dynamicdds@1.0.so \
     vendor/xiaomi/onc/proprietary/lib64/vendor.qti.hardware.data.latency@1.0.so:system/lib64/vendor.qti.hardware.data.latency@1.0.so \
@@ -567,6 +557,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/onc/proprietary/vendor/lib/hw/android.hardware.bluetooth@1.0-impl-qti.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/android.hardware.bluetooth@1.0-impl-qti.so \
     vendor/xiaomi/onc/proprietary/vendor/lib/hw/android.hardware.camera.provider@2.4-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/android.hardware.camera.provider@2.4-impl.so \
     vendor/xiaomi/onc/proprietary/vendor/lib/hw/android.hardware.gatekeeper@1.0-impl-qti.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/android.hardware.gatekeeper@1.0-impl-qti.so \
+    vendor/xiaomi/onc/proprietary/vendor/lib/hw/android.hardware.gnss@1.0-impl-qti.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/android.hardware.gnss@1.0-impl-qti.so \
     vendor/xiaomi/onc/proprietary/vendor/lib/hw/audio.primary.default.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.primary.default.so \
     vendor/xiaomi/onc/proprietary/vendor/lib/hw/audio.primary.msm8953.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.primary.msm8953.so \
     vendor/xiaomi/onc/proprietary/vendor/lib/hw/camera.msm8953.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/camera.msm8953.so \
@@ -1683,6 +1674,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/onc/proprietary/vendor/lib64/hw/android.hardware.bluetooth@1.0-impl-qti.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/android.hardware.bluetooth@1.0-impl-qti.so \
     vendor/xiaomi/onc/proprietary/vendor/lib64/hw/android.hardware.camera.provider@2.4-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/android.hardware.camera.provider@2.4-impl.so \
     vendor/xiaomi/onc/proprietary/vendor/lib64/hw/android.hardware.gatekeeper@1.0-impl-qti.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/android.hardware.gatekeeper@1.0-impl-qti.so \
+    vendor/xiaomi/onc/proprietary/vendor/lib64/hw/android.hardware.gnss@1.0-impl-qti.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/android.hardware.gnss@1.0-impl-qti.so \
     vendor/xiaomi/onc/proprietary/vendor/lib64/hw/android.hardware.keymaster@3.0-impl-qti.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/android.hardware.keymaster@3.0-impl-qti.so \
     vendor/xiaomi/onc/proprietary/vendor/lib64/hw/audio.primary.default.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/audio.primary.default.so \
     vendor/xiaomi/onc/proprietary/vendor/lib64/hw/audio.primary.msm8953.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/audio.primary.msm8953.so \
