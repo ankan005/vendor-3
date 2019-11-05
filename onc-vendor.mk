@@ -2088,5 +2088,4 @@ PRODUCT_PACKAGES += \
     PowerOffAlarm \
     TimeService \
     TrustZoneAccessService \
-    WfdCommon \
-    chargeonlymode
+    WfdCommon
