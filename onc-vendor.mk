@@ -439,7 +439,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/onc/proprietary/vendor/etc/qc__2.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qc__2.xml \
     vendor/xiaomi/onc/proprietary/vendor/etc/qdcm_calib_data_CSOT_otm1901a_video_mode_dsi_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_CSOT_otm1901a_video_mode_dsi_panel.xml \
     vendor/xiaomi/onc/proprietary/vendor/etc/qdcm_calib_data_boe_hx8394f_video_mode_dsi_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_boe_hx8394f_video_mode_dsi_panel.xml \
-    vendor/xiaomi/onc/proprietary/vendor/etc/sensors/sensor_def_qcomdev.conf:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/sensor_def_qcomdev.conf \
     vendor/xiaomi/onc/proprietary/vendor/etc/thermal-engine-map.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine-map.conf \
     vendor/xiaomi/onc/proprietary/vendor/etc/thermal-engine-normal.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine-normal.conf \
     vendor/xiaomi/onc/proprietary/vendor/etc/thermal-engine-video.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine-video.conf \
