@@ -443,7 +443,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/onc/proprietary/vendor/etc/thermal-engine-map.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine-map.conf \
     vendor/xiaomi/onc/proprietary/vendor/etc/thermal-engine-normal.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine-normal.conf \
     vendor/xiaomi/onc/proprietary/vendor/etc/thermal-engine-video.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine-video.conf \
-    vendor/xiaomi/onc/proprietary/vendor/etc/thermal-engine.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine.conf \
     vendor/xiaomi/onc/proprietary/vendor/etc/xtra_root_cert.pem:$(TARGET_COPY_OUT_VENDOR)/etc/xtra_root_cert.pem \
     vendor/xiaomi/onc/proprietary/vendor/firmware/a225_pfp.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/a225_pfp.fw \
     vendor/xiaomi/onc/proprietary/vendor/firmware/a225_pm4.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/a225_pm4.fw \
